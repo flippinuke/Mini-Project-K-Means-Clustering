@@ -1,0 +1,1 @@
+This is the final code for the k-means clustering project. I have some code written multiple ways to check my work. I think I understand the wssplot() function, and my understanding is written within the code.
